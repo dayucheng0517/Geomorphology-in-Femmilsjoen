@@ -142,3 +142,32 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 4. Perennial snow patches (多年生的雪塊) are abundant
 5. The glacier front is steep
 6. A supraglacial ridge with diamictic (混雜沉積岩) composition running parallel to the ice margin
+
+### 4.1  Landforms from the last glaciation
+
+#### 4.1.1. Exposed bedrock
+
+##### - Fractures
+1. In the bedrock surface
+2. In front of the ice margin
+3. Small-scale indicators of subglacial erosion
+
+##### -  Striated bedrock
+1. ~270° (Westward)
+2. In south of Strøen and west of Nevlingen
+3. Below the marine limit 
+4. In the coastal area
+
+#### 4.1.2. Periglacially altered till surface
+
+##### - Fractures
+1. In the bedrock surface
+2. In front of the ice margin
+3. Small-scale indicators of subglacial erosion
+
+##### -  Striated bedrock
+1. ~270° (Westward)
+2. In south of Strøen and west of Nevlingen
+3. Below the marine limit 
+4. In the coastal area
+5. Scoured by erosive ice, streaming in an E-W direction
