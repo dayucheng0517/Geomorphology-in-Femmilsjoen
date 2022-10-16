@@ -100,18 +100,45 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 
 #### - Climate
 1. Interaction of the West Spitsbergen Current (WSC) and the sea-ice covered Arctic Ocean
-> 
-#### - North Ny-Friesland
-1. E-W striking faults with joint sets of similar orientation
-2. The strike  correlated with the orientation of the axis of the tributary (支流) fjords and outlet glaciers
-3. Understanding of individual landforms and the links between them, as well as the process
+> Advection : the transport of a substance or quantity by bulk motion of a fluid
+2. Arctic amplification (AA) :　the warming in the Arctic has been much faster than in the rest of the world
+> Configuration : an arrangement of elements in a particular form or combination
++ Climate change > A thickening of the active layer > Slope instability and coastal erosion
+3. The northern Arctic Tundra (凍原) zone
+4. the sea-ice minimum occurs during July through November, when the sea-ice extent (面積) is below 20%
 
-### - Topography
-1. Undulating (起伏的)
-2. Numerous lakes
-3. *Marine limit (冰磧稜線)*
-4. *The marine isolation threshold (冰磧分隔臨界點=冰斗湖前丘)*
-> cal. ka BP = calibrated kiloannus (1000yr) before present (1950)
-> *What is the c.in c. 11.7 ± 0.3 and c. 11.3 ± 0.2 cal. ka BP?*
-5. Coastal lowland
-6. Open hilly landscape
+## Methods
+
+### - The geomorphological mapping
+1. Based on aerial images
+2. Digital elevation modal (DEM)
+3. Field mapping
+4. Oblique (傾斜的) aerial images
+5. Erosional and depositional processes
+
+### - Fieldwork
+1. A handheld GPS
+2. Landforms were described and photographed
+3. Follows the standard for Quaternary geological maps
+4. Bathymetric (測深) data
+
+## Geomorphology and surficial geology map units
+
+### - The low-relief coastal lowlands
+1. Sets of terraces (階地) with coastal landforms and marine sediments
+2. The marine sediments occur up to ~8km inland
+3. The uppermost marine deposits occur at ~72 m a.s.l.
+4. Oblique (傾斜的) aerial images
+5. Erosional and depositional processes
+
+### - The transition from coastal lowland to the mountain plateau
+1. Steep terrain with small lakes in depressions (低窪地)
+2. Slope deposits dominate
+
+### - The mountain plateau
+1. Low-relief terrain extending from about 5km inland
+2. The elevation ranges from ~220 m a.s.l. to ~287 m a.s.l
+3. *Rolling, in situ (原位) weathered bedrock hills and periglacially (冰緣環境=歷經凍融循環的地區) altered surfaces in between*
+4. Perennial snow patches (多年生的雪塊) are abundant
+5. The glacier front is steep
+6. A supraglacial ridge with diamictic (混雜沉積岩) composition running parallel to the ice margin
