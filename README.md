@@ -160,10 +160,15 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 
 #### 4.1.2. Periglacially altered till surface
 
-##### - Fractures
-1. In the bedrock surface
-2. In front of the ice margin
-3. Small-scale indicators of subglacial erosion
+##### - Sorted circles
+1. A thin silt-rich, fine grained diamict deposit
+2. *A periglacially altered surface*
+3. Diameter up to 4 m
+4. Stripes
+5. On the bedrock plateau
+6. In the eastern part of the study area
+7. The presence of silt-rich, fine-grained material is a precondition for sorted circles to form
+8. A thin till cover deposited during full glacial conditions and has provided the fine sediments to allow the sorted circles to form
 
 ##### -  Striated bedrock
 1. ~270° (Westward)
@@ -171,3 +176,47 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 3. Below the marine limit 
 4. In the coastal area
 5. Scoured by erosive ice, streaming in an E-W direction
+
+### 4.2  Landforms from the last deglaciation
+
+#### 4.2.1. Boulders
+
+##### - Of local lithology
+1. Rock-fall deposits
+
+##### - Of exotic lithologies
+1. Erratics deposited during glacial retreat
+
+#### 4.2.2. Marginal moraines 
+
+##### - One clearly defined ridge
+1. Angular to sub-rounded boulders on the surface
+2. An interior of diamict with sub-rounded clasts (=detritus=岩屑) and shell fragments
+3. In the NW part of the study area south of Gunvorvatnet
+4. The orientation of the ridge is parallel to the coast, so it's a marginal moraine
+
+##### - Another distinct ridge
+1. A marginal moraine
+2. In the SE part of the study area immediately in front of the glacier margin of Midtsundstadbreen
+
+##### - Three less distinct ridges
+1. Remnants (剩餘) of lateral moraines
+2. On a slope SE of Brennkollen
+3. On the northern slope in the western end of Femmilsjøen
+
+#### 4.2.3. Features marking former ice-margin positions
+
+##### - The bedrock ridge
+1. Angular to sub-rounded boulders on the surface
+2. An interior of diamict with sub-rounded clasts (=detritus=岩屑) and shell fragments
+3. In the NW part of the study area south of Gunvorvatnet
+4. The orientation of the ridge is parallel to the coast, so it's a marginal moraine
+
+##### - Another distinct ridge
+1. A marginal moraine
+2. In the SE part of the study area immediately in front of the glacier margin of Midtsundstadbreen
+
+##### - Three less distinct ridges
+1. Remnants (剩餘) of lateral moraines
+2. On a slope SE of Brennkollen
+3. On the northern slope in the western end of Femmilsjøen
