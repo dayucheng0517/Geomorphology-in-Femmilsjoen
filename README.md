@@ -177,7 +177,7 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 4. In the coastal area
 5. Scoured by erosive ice, streaming in an E-W direction
 
-### 4.2  Landforms from the last deglaciation
+### 4.2 Landforms from the last deglaciation
 
 #### 4.2.1. Boulders
 
@@ -185,7 +185,7 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 1. Rock-fall deposits
 
 ##### - Of exotic lithologies
-1. Erratics deposited during glacial retreat
+1. Erratics (a rock or boulder that differs from the surrounding rock and is believed to have been brought from a distance by glacial action) deposited during glacial retreat
 
 #### 4.2.2. Marginal moraines 
 
@@ -206,7 +206,36 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 
 #### 4.2.3. Features marking former ice-margin positions
 
-##### - The bedrock ridge
+##### - A distinct border
+1. Separates raised beach deposits to the east and bedrock to the west
+2. The abundance of large erratics (>1 m) is high
+3. A former ice-margin position
+4. The beach deposits on the eastern part of the ridge have formed subsequent to (接下來) ice retreat.
+
+##### - Four additional ice-marginal positions
+1. Suble (不明顯的)
+2. Have Higher concentrations of erratics
+
+##### - One ice-marginal position
+1. In the western end of Helgevatnet
+2. A terrace-shaped deposit
+3. Consisting of sand and gravel
+4. A kame (=knob) terrace deposited in an ice-dammed
+lake (In small areas, kames may form the terminal moraine.)
+
+### 4.3 Raised marine deposits
+
+#### 4.2.1. Boulders
+
+##### - Of local lithology
+1. Rock-fall deposits
+
+##### - Of exotic lithologies
+1. Erratics (a rock or boulder that differs from the surrounding rock and is believed to have been brought from a distance by glacial action) deposited during glacial retreat
+
+#### 4.2.2. Marginal moraines 
+
+##### - One clearly defined ridge
 1. Angular to sub-rounded boulders on the surface
 2. An interior of diamict with sub-rounded clasts (=detritus=岩屑) and shell fragments
 3. In the NW part of the study area south of Gunvorvatnet
@@ -220,3 +249,22 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 1. Remnants (剩餘) of lateral moraines
 2. On a slope SE of Brennkollen
 3. On the northern slope in the western end of Femmilsjøen
+
+#### 4.2.3. Features marking former ice-margin positions
+
+##### - A distinct border
+1. Separates raised beach deposits to the east and bedrock to the west
+2. The abundance of large erratics (>1 m) is high
+3. A former ice-margin position
+4. The beach deposits on the eastern part of the ridge have formed subsequent to (接下來) ice retreat.
+
+##### - Four additional ice-marginal positions
+1. Suble (不明顯的)
+2. Have Higher concentrations of erratics
+
+##### - One ice-marginal position
+1. In the western end of Helgevatnet
+2. A terrace-shaped deposit
+3. Consisting of sand and gravel
+4. A kame (=knob) terrace deposited in an ice-dammed
+lake (In small areas, kames may form the terminal moraine.)
