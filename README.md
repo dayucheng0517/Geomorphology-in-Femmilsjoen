@@ -225,7 +225,7 @@ lake (In small areas, kames may form the terminal moraine.)
 
 ### 4.3 Raised marine deposits
 
-#### 4.2.1. Boulders
+#### 4.3.1.  Raised fine-grained glaciomarine deposits
 
 ##### - Of local lithology
 1. Rock-fall deposits
