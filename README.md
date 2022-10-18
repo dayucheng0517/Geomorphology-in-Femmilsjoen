@@ -367,23 +367,17 @@ talus at the toe of the colluvial fans.
 
 ### 5.1. Temporal and spatial significance of landform and surficial deposit distribution
 
-#### - Fields of large angular boulders
-1. Local lithologies
-2. Mostly or completely covering the surface constitute
-3. Dominate the plateaus
-4. Likely be active through the Holocene
-5. May have been revitalised (恢復生機) or relict (遺留) from previous ice-free periods
+#### -  The last glaciation
++ The faint traces of striae on the bedrock in the coastal lowland
++ The thin till cover on the bedrock plateau
++ The scattered erratics of exotic lithologies
+> Grounded ice 碎冰
 
-#### 4.5.2. Talus (崖錐) covered slopes, colluvial fans and rock glaciers
+#### -  The incised channels are most likely older and progressive with phases of erosion
 
-##### - The steep slopes
-1. Covered by angular, scattered talus
-2. Originate from weathering processes and rock falls.
-3. Dominated by fans of angular debris, interpreted as colluvial fans composed of avalanche (雪崩) and debris-flow deposits
+#### - Femmilsjøen was connected to the fjord until between 11.7 and 11.3 cal. ka BP
++ Raised glaciomarine deposits = Marine and lake sediment cores from Wijdefjorden and Femmilsjøen
 
-##### - The undulating ridges
-1. Coarse debris on the surface occur at the
-foot of a few NW facing slopes, south of Femmilsjøen
-> Pressure ridges : caused by the flow of ice-cemented
-talus at the toe of the colluvial fans.
-> Rock glaciers : consisting either of angular rock debris frozen in interstitial (間隙的) ice, former "true" glaciers overlain by a layer of talus, or something in-between
+#### *- The raised beach ridges are the results of gradual emergence after the deglaciation* Why it emerged?
+
+#### -  The marine deposits and *beach ridges* are formed prior to the form of the isolation threshold
