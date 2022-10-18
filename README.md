@@ -333,3 +333,57 @@ talus at the toe of the colluvial fans.
 2. Increased precipitation during the Holocene Thermal Maximum (HTM) > Higher lake levels
 > Expansion of taliks below shallow lakes without distinct outflows could also lower the lake levels
 
+#### 4.5.5. Modern beach deposits
+
+##### - The deposits
+1. Sand and gravel
+2. with actively forming ridges (~0.3 m high)
+3. Up to 70 m wide
+4. Up to 3 m a.s.l.
+5. Separated by outcropping bedrock of positive relief
+6. Occur in the bays along the coast of Wijdefjorden
+7. Modern fair-weather beach ridges
+
+##### - On the modern beaches
+1. Driftwood is abundant
+2. Very few mollusc (軟體動物) shells
+
+#### 4.5.6. Supraglacial thrust ridge
+
+##### - Debris band
+1. 50 m inboard of the margin of Midtsundstadbreen
+2. 85 m wide
+3. Running parallel to the ice front
+4. A diamictic composition
+5. Large boulders are abundant on the surface
+6. Similar to thrust moraines
+7. A thrust moraine
+
+##### - Thrust moraines
+1. the material was brought up to the surface along thrust planes in the ice
+> Thrusting : particularly common in the transition zone from warm interior ice to a frozen snout
+
+## 5. Discussion
+
+### 5.1. Temporal and spatial significance of landform and surficial deposit distribution
+
+#### - Fields of large angular boulders
+1. Local lithologies
+2. Mostly or completely covering the surface constitute
+3. Dominate the plateaus
+4. Likely be active through the Holocene
+5. May have been revitalised (恢復生機) or relict (遺留) from previous ice-free periods
+
+#### 4.5.2. Talus (崖錐) covered slopes, colluvial fans and rock glaciers
+
+##### - The steep slopes
+1. Covered by angular, scattered talus
+2. Originate from weathering processes and rock falls.
+3. Dominated by fans of angular debris, interpreted as colluvial fans composed of avalanche (雪崩) and debris-flow deposits
+
+##### - The undulating ridges
+1. Coarse debris on the surface occur at the
+foot of a few NW facing slopes, south of Femmilsjøen
+> Pressure ridges : caused by the flow of ice-cemented
+talus at the toe of the colluvial fans.
+> Rock glaciers : consisting either of angular rock debris frozen in interstitial (間隙的) ice, former "true" glaciers overlain by a layer of talus, or something in-between
