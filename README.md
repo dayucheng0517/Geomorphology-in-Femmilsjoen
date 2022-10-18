@@ -248,7 +248,7 @@ lake (In small areas, kames may form the terminal moraine.)
 2. Elevations from ~3 to ~72 m a.s.l.
 3. Predominantly along the modern coastline of Wijdefjorden and up to 3.3 km inland
 4. From coarse sand up to small boulders
-5. Distinct ridges (~0.2 m high) occur
+5. *Distinct ridges (~0.2 m high) occur* How?
 6. Raised beach deposits
 
 ##### - Raised beach deposits compared to modern
@@ -380,4 +380,7 @@ talus at the toe of the colluvial fans.
 
 #### *- The raised beach ridges are the results of gradual emergence after the deglaciation* Why it emerged?
 
-#### -  The marine deposits and *beach ridges* are formed prior to the form of the isolation threshold
+#### - The marine deposits and *beach ridges* are formed prior to the form of the isolation threshold
+
+#### - Periglacial processes and slope processes initiated shortly after deglaciation of the area
+> *rockwall retreat?*
