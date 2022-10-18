@@ -260,32 +260,76 @@ lake (In small areas, kames may form the terminal moraine.)
 
 #### 4.4.1. Fluvial and glaciofluvial deposits
 
-##### -  The channels
+##### - The channels
 1. In the low-relief terrain parallel to the coast
 2. With longitudinal bars of sorted sand and gravel as well as boulders
 3. Oriented primarily perpendicular to and gently sloping towards the coast
 4.Raised marine sediments
 
-##### - Bivalve mollusc (斧足綱) shell fragments
-1. Mya truncata
-2. Hiatella arctica 
+##### - A few of the channels active
+1. Streams of running water occur
+2. Fluvial channel
 
-##### - Raised marine sediments 
-1. Deposited in a glaciomarine environment, prior to postglacial glacioisostatic rebound
-2. The composition is similar to observations of glaciomarine sediments in lake and marine sediment cores from the Femmilsjøen area (These landscape were form after Glacial retreat. So the original bedding may be raised marine sediments)
+##### -  Similar channels occur on the plateau in front of
+Midtsundstadbreen
+1. The orientation and gradient are predominantly towards north, parallel to the ice-margin
+2. Drain into Femmilsjøen, where small deltas form
+3. On the surface of the glaciofluvial deposits, periglacial landforms such as sorted circles and stripes occur
 
-#### 4.3.2. Raised beach deposits
+> Most of the active streams occur in the channels close to the glacier front
 
-##### - Deposits of sand and gravel
-1. 500m wide
-2. Elevations from ~3 to ~72 m a.s.l.
-3. Predominantly along the modern coastline of Wijdefjorden and up to 3.3 km inland
-4. From coarse sand up to small boulders
-5. Distinct ridges (~0.2 m high) occur
-6. Raised beach deposits
+#### 4.4.2. Incised channels
 
-##### - Raised beach deposits compared to modern
-1. Coarser material
-2. Shell fragments are rare
-> The uppermost occurrence of raised beach deposits = The postglacial marine limit
+##### - Channels incised in bedrock
+1. Up to 12 m deep and 50 m wide
+2. The incisions are old and progressive with phases of erosion during deglaciations
+3. Maybe subglacial gorges or short-lived fluvial erosion during ice retreat
+
+> Where channels are incised into sediments, they are more likely to be of Holocene age
+
+### 4.5 Landforms of Holocene origin
+
+#### 4.5.1. Blockfields
+
+##### - Fields of large angular boulders
+1. Local lithologies
+2. Mostly or completely covering the surface constitute
+3. Dominate the plateaus
+4. Likely be active through the Holocene
+5. May have been revitalised (恢復生機) or relict (遺留) from previous ice-free periods
+
+#### 4.5.2. Talus (崖錐) covered slopes, colluvial fans and rock glaciers
+
+##### - The steep slopes
+1. Covered by angular, scattered talus
+2. Originate from weathering processes and rock falls.
+3. Dominated by fans of angular debris, interpreted as colluvial fans composed of avalanche (雪崩) and debris-flow deposits
+
+##### - The undulating ridges
+1. Coarse debris on the surface occur at the
+foot of a few NW facing slopes, south of Femmilsjøen
+> Pressure ridges : caused by the flow of ice-cemented
+talus at the toe of the colluvial fans.
+> Rock glaciers : consisting either of angular rock debris frozen in interstitial (間隙的) ice, former "true" glaciers overlain by a layer of talus, or something in-between
+
+#### 4.5.3. Solifluction (土石緩滑) material
+
+##### - The gentler slopes
+1. Covered by a thin soil
+2. Creep occurs in the active layer
+3. Solifluction material
+
+#### 4.5.4. Lacustrine (湖泊的) deposits
+
+##### - The deposits
+1. Fine-grained (primarily silt)
+2. Along the lake shores and in depressions across the entire area
+3. Some of them are coarser gravel
+4. The deposits occur up to ~1 m above the current lake surfaces
+5. Remnants after higher lake levels
+
+##### - The lakes level
+1. More glacier proximal conditions > Higher meltwater supply > Higher lake levels = Higher base level 
+2. Increased precipitation during the Holocene Thermal Maximum (HTM) > Higher lake levels
+> Expansion of taliks below shallow lakes without distinct outflows could also lower the lake levels
 
