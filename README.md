@@ -227,44 +227,65 @@ lake (In small areas, kames may form the terminal moraine.)
 
 #### 4.3.1.  Raised fine-grained glaciomarine deposits
 
-##### - Of local lithology
-1. Rock-fall deposits
+##### - Diamict sediments with sporadic (零星的) clasts
+1. Fine-grained, compact
+2. Generally below 72 m a.s.l.
+3. In the coastal area and the lower shores (between average low water neap tide 小潮 (MLWN) to the lowest the tide ever gets i.e. extreme low water spring tides 大潮 (ELWS).) of Femmilsjøen
+4.Raised marine sediments
 
-##### - Of exotic lithologies
-1. Erratics (a rock or boulder that differs from the surrounding rock and is believed to have been brought from a distance by glacial action) deposited during glacial retreat
+##### - Bivalve mollusc (斧足綱) shell fragments
+1. Mya truncata
+2. Hiatella arctica 
 
-#### 4.2.2. Marginal moraines 
+##### - Raised marine sediments 
+1. Deposited in a glaciomarine environment, prior to postglacial glacioisostatic rebound
+2. The composition is similar to observations of glaciomarine sediments in lake and marine sediment cores from the Femmilsjøen area (These landscape were form after Glacial retreat. So the original bedding may be raised marine sediments)
 
-##### - One clearly defined ridge
-1. Angular to sub-rounded boulders on the surface
-2. An interior of diamict with sub-rounded clasts (=detritus=岩屑) and shell fragments
-3. In the NW part of the study area south of Gunvorvatnet
-4. The orientation of the ridge is parallel to the coast, so it's a marginal moraine
+#### 4.3.2. Raised beach deposits
 
-##### - Another distinct ridge
-1. A marginal moraine
-2. In the SE part of the study area immediately in front of the glacier margin of Midtsundstadbreen
+##### - Deposits of sand and gravel
+1. 500m wide
+2. Elevations from ~3 to ~72 m a.s.l.
+3. Predominantly along the modern coastline of Wijdefjorden and up to 3.3 km inland
+4. From coarse sand up to small boulders
+5. Distinct ridges (~0.2 m high) occur
+6. Raised beach deposits
 
-##### - Three less distinct ridges
-1. Remnants (剩餘) of lateral moraines
-2. On a slope SE of Brennkollen
-3. On the northern slope in the western end of Femmilsjøen
+##### - Raised beach deposits compared to modern
+1. Coarser material
+2. Shell fragments are rare
+> The uppermost occurrence of raised beach deposits = The postglacial marine limit
 
-#### 4.2.3. Features marking former ice-margin positions
+### 4.4 Landforms of fluvial origin
 
-##### - A distinct border
-1. Separates raised beach deposits to the east and bedrock to the west
-2. The abundance of large erratics (>1 m) is high
-3. A former ice-margin position
-4. The beach deposits on the eastern part of the ridge have formed subsequent to (接下來) ice retreat.
+#### 4.4.1. Fluvial and glaciofluvial deposits
 
-##### - Four additional ice-marginal positions
-1. Suble (不明顯的)
-2. Have Higher concentrations of erratics
+##### -  The channels
+1. In the low-relief terrain parallel to the coast
+2. With longitudinal bars of sorted sand and gravel as well as boulders
+3. Oriented primarily perpendicular to and gently sloping towards the coast
+4.Raised marine sediments
 
-##### - One ice-marginal position
-1. In the western end of Helgevatnet
-2. A terrace-shaped deposit
-3. Consisting of sand and gravel
-4. A kame (=knob) terrace deposited in an ice-dammed
-lake (In small areas, kames may form the terminal moraine.)
+##### - Bivalve mollusc (斧足綱) shell fragments
+1. Mya truncata
+2. Hiatella arctica 
+
+##### - Raised marine sediments 
+1. Deposited in a glaciomarine environment, prior to postglacial glacioisostatic rebound
+2. The composition is similar to observations of glaciomarine sediments in lake and marine sediment cores from the Femmilsjøen area (These landscape were form after Glacial retreat. So the original bedding may be raised marine sediments)
+
+#### 4.3.2. Raised beach deposits
+
+##### - Deposits of sand and gravel
+1. 500m wide
+2. Elevations from ~3 to ~72 m a.s.l.
+3. Predominantly along the modern coastline of Wijdefjorden and up to 3.3 km inland
+4. From coarse sand up to small boulders
+5. Distinct ridges (~0.2 m high) occur
+6. Raised beach deposits
+
+##### - Raised beach deposits compared to modern
+1. Coarser material
+2. Shell fragments are rare
+> The uppermost occurrence of raised beach deposits = The postglacial marine limit
+
