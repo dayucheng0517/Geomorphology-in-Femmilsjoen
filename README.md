@@ -384,3 +384,73 @@ talus at the toe of the colluvial fans.
 
 #### - Periglacial processes and slope processes initiated shortly after deglaciation of the area
 > *rockwall retreat?*
+
+#### - The ice marginal positions mapped in the lowrelief coastal area represent dynamic re-advances of tributary (支流) glacier after retreat of the main glacier in Wijdefjorden
+
+#### - The re-advances occurred into a high relative sea level prior to extensive glacioisostatic uplift
++ The wavewashed appearance of the mapped ice margin positions
++ No distinct sediment layer indicative of re-advance is observed in lake sediment cores
+from Femmilsjøen
++ Better chronological control is needed in order
+to assess the timing of re-advances
+
+#### - The HTM was warm and wet
++ Glaciers had retreated out of the catchment area of Femmilsjøen
++ The active layer was thicker from Femmilsjøen
++ Periglacial processes more widespread as glaciers covered less
+
+#### - Periglacial processes
++ Controlled by the frequency and rate of freeze and thaw
++ The moisture conditions of the substrate (基質)
++ Periglacial processes more widespread as glaciers covered less
++ *Permafrost is suggested to have re-established in the lowlands of Svalbard c. 3.0 cal. ka BP* Why?
+
+#### - Frost-heave processes are active today
++ The abundant sorted circles and their clear sorting
+
+### 5.2. Emergence and the highest coastline
+
+#### - Marine limit
++ Up to 72 m a.s.l. aligns well with a progressive in-fjord higher marine limit
++ Femmilsjøen marine limit is at slightly higher than that from Mosselbukta
++ Indicates that the uplift has been more extensive around Femmilsjøen
++ The ice thickness and duration of ice cover was greater 10 km farther south during the Late Weichselian (Femmilsjoen的冰層和冰封時長比較久，所以回彈速度較快)
+
+#### - The control factor of the postglacial marine limit
++ Ice cover thickness
++ Duration
++ The timing of deglaciation
+
+### 5.3. Character of deglaciation and ice dynamics of Midtsundstadbreen
+
+> Characteristics and Formation of Warm and Cold Based Glaciers
+> + Warm based glaciers (=temperate glaciers) : 
+>   1. Found in lower latitudes such as the Alps mountain range
+>   2. The process of movement is largely through basal slippage due to the temporature
+>   3. Liquid meltwater lubricate the contact surface
+>   4. Roughly 3 metres per day
+>   5. When the seasons change, the glacier will refreeze to the basal rock
+>   6. Months later, when the temperature warms up again, the glacier will pluck material away (Increased erosion)
+>
+> + Cold based glaciers : 
+>   1. Higher latitudes and have less seasonal variation in temperature
+>   2. Move due to internal deformation/flow (Gravity and pressure exerted by ice accumulation)
+>   3. 2cm per day
+>   4. The ice crystals within the glacier orientate themselves into the same direction
+
+#### - The thermal state of Svalbard glaciers has been documented to switch from polythermal to cold-based during retreat and thinning
++ As thinning allows for penetration of cold atmospheric temperatures to the bed of the ice
+
+#### - Midtsundstadbreen could have switched from warm to cold after the LGM
++ as the ice sheet in the northern sector had already started thinning c. 25 ka ago, the switch may have occurred early (Maximum coverage was between 26,500 years and 19–20,000 years ago)
+
+#### - Cold-based glaciers modify landscapes, however, *at a rate of an order of magnitude lower*
+> Geomorphological evidence of cold-based glacier activity
+> + Erosional features
+>   1. Broad scrapes and grooves (刮痕)
+>   2. Irregular scuffs, (磨損) scrapes and scratches of exposed boulders embedded in pre-existing glacial deposits and meltwater channels
+> + Depositional features
+>   1. Thin patchy (散落的) drift 漂礫 (all material of glacial origin found anywhere on land or at sea, including sediment and large rocks)
+>   2. Boulder belts
+>   3. Drop moraines
+>   4. Boulder trains and scattered boulders
