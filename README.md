@@ -454,3 +454,78 @@ to assess the timing of re-advances
 >   2. Boulder belts
 >   3. Drop moraines
 >   4. Boulder trains and scattered boulders
+
+#### - The periglacially altered till surface on the bedrock plateau resembles thin till deposits from cold-based glaciers in Antarctica
+
+#### - The lack of Little ice age (LIA) moraines and ice marginal deposits
++ No traces of LIA advances were mapped around the NW margin of Åsgardfonna
++ Cold-based glacier fronts
+
+#### - Few striations mapped in the Femmilsjøen area occur in the low-relief coastal area, and none were observed on the bedrock plateau
++ Only in the lower elevation areas, the ice was at the pressure melting point at the base and thus able to abrade the bedrock (Water, pressure up, melting point down. So water is hard to melt in high pressure.)
+
+#### - The warm-based part of the ice sheet during the Late Weichselian was confined to fjords and lowlands below 200–230 m a.s.l., and that cold-based ice covered the higher elevated terrain in Nordaustlandet
+
+#### - Cold-based areas are suggested to have prevailed above ~500 m a.s.l. in NW Iceland
+
+#### - Reinsdyrflya was an interice-stream area during the Late Weichselian, with cold-based ice covering the strandflat and limited glacial imprints left in the area
+
+#### - Predominantly coldbased ice has covered the bedrock plateau during the Late Weichselian
++ In Antarctica
+  1. Very limited glacial imprints on the bedrock plateau
+  2. Landscapes of cold-based glaciers
++ In Nordaustlandet
+  1. The thrust moraine
+  2. The similar overall elevation of the bedrock plateau
+  3. Cold-based zones
+  
+#### - An alternative to a cold-based glacier interpretation to the lack of bedrock-erosional features on the plateau
++ The lithological and structural properties of the bedrock substratum in itself may influence the erodibility of the covering glacier ice
+
+#### - Hard substratum and the presence of unfavourable structures slow the rate of subglacial erosion
++ Narrow joint spacing has been suggested to favour quarrying and higher erosion rates
++ More widely spaced joints favour abrasion and lower rates of erosion of the landscape
+
+#### - The foliation is dominantly N-S striking and westward dipping
++ Tributary glaciers in the region exhibited dynamic
+advances subsequent to (隨著) retreat of the main glacier in Wijdefjorden after LGM
++  If these dynamic post-LGM advances were across the plateau towards the west and thus oriented normal to the low-relief bedrock structures, quarrying could have been
+favoured over abrasion, and could explain the lack of striations on the bedrock plateau
+
+#### - Subglacially deposited landforms that are subaerially exposed are prone to weathering
+
+#### - Deglaciated already by c. 16.0 cal. ka BP would leave substantial (充足的) time for weathering to erode any potentially deposited landforms
+
+#### - The landscape on the plateau to have been little affected because the glacier was cold-based
+
+#### - Be10, Al26 and in situ C14 cosmogenic exposure dating of the bedrock and erratics from the foreland of Midtsundstadbreen
++ The erosion history of the landscape
++ Identify it's warm- or cold-based ice during the Last Glacial
+
+#### - The lack of landforms indicative of surge activity, related to advances of the surge-type glacier could be attributed to the regional bedrock
++ Such landforms may exist on the lake floor of Femmilsjøen
++ We could investigate it through multi-beam mapping of the lake floor
+> Multibeam sonar : a type of active sonar system used to map the seafloor and detect objects in the water column or along the seafloor.
+
+#### - Midtsundstadbreen was cold-based during its most recent advances
++ The few and faint moraine ridges on the bedrock plateau
+
+#### - No modification by the 1960s surge of Longstaffbreen
++ the location of the thrust moraine on Midtsundstadbreen has not changed since 1936 to 2010
+
+#### -  The snout of Midtsundstandbreen is currently stagnant (停滯不前) and frozen to the ground
++ The lack of change in frontal position although the overall mass balance of glaciers in Svalbard is negative
+
+## 5. Summary and conclusions
+
+### - The geomorphology of the bedrock plateau in front of
+Midtsundstadbreen suggests that cold-based ice covered the plateau during the Late Weichselian
+
+### - The coastal zone and areas below 72 m a.s.l. are dominated by raised glaciomarine sediments and beach ridges. In this area, warm-based ice streamed during the Late Weichselian.
+
+### - Faint traces of ice-front positions in the low-relief coastal zone are suggested to belong to the deglaciation phase.
+
+### - In the transition zone from coastal lowland to the bedrock plateau slope deposits dominate the steeper slopes and slope processes have most likely been active since deglaciation.
+
+### - Presently, the snout of Midtsundstadbreen is passive and most likely cold-based. The presence of the thrust moraine may indicate the location of a former transition from warm-based to coldbased ice.
+![The thrust moraine](https://pbisotopes.ess.sunysb.edu/reports/dem_2/images/models/glacial_thrusting.gif)
