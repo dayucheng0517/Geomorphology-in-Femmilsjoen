@@ -529,3 +529,18 @@ Midtsundstadbreen suggests that cold-based ice covered the plateau during the La
 
 ### - Presently, the snout of Midtsundstadbreen is passive and most likely cold-based. The presence of the thrust moraine may indicate the location of a former transition from warm-based to coldbased ice.
 ![The thrust moraine](https://pbisotopes.ess.sunysb.edu/reports/dem_2/images/models/glacial_thrusting.gif)
+
+### - Periglacial landforms occur throughout the area
+
+## 7. CRediT authorship contribution statement
+1. Conceptualisation 概念化
+2. Project administration
+> A project administrator : a professional who organizes the necessary team members and specializes in facilitating, reporting and analyzing projects under the supervision of a project manager.
+3. Supervision 監督
+
+## 8. Declaration of competing interest
+> A conflict of interest can also be known as ‘competing interest’. A conflict of interest can occur when you, or your employer, or sponsor have a financial, commercial, legal, or professional relationship with other organizations, or with the people working with them, that could influence your research.
+
+## 9. Acknowledgements (致謝)
+1. Depot 倉庫
+2. Anonymous (匿名的) reviewer
