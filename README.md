@@ -83,10 +83,10 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 ### - Topography
 1. Undulating (起伏的)
 2. Numerous lakes
-3. *Marine limit (冰磧稜線)*
-4. *The marine isolation threshold (冰磧分隔臨界點=冰斗湖前丘)*
+3. ***Marine limit (冰磧稜線)***
+4. ***The marine isolation threshold (冰磧分隔臨界點=冰斗湖前丘)***
 > cal. ka BP = calibrated kiloannus (1000yr) before present (1950)
-> *What is the c.in c. 11.7 ± 0.3 and c. 11.3 ± 0.2 cal. ka BP?*
+> ***What is the c.in c. 11.7 ± 0.3 and c. 11.3 ± 0.2 cal. ka BP?***
 5. Coastal lowland
 6. Open hilly landscape
 
@@ -138,7 +138,7 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 ### - The mountain plateau
 1. Low-relief terrain extending from about 5km inland
 2. The elevation ranges from ~220 m a.s.l. to ~287 m a.s.l
-3. *Rolling, in situ (原位) weathered bedrock hills and periglacially (冰緣環境=歷經凍融循環的地區) altered surfaces in between*
+3. ***Rolling, in situ (原位) weathered bedrock hills and periglacially (冰緣環境=歷經凍融循環的地區) altered surfaces in between (In between?)***
 4. Perennial snow patches (多年生的雪塊) are abundant
 5. The glacier front is steep
 6. A supraglacial ridge with diamictic (混雜沉積岩) composition running parallel to the ice margin
@@ -162,7 +162,7 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 
 ##### - Sorted circles
 1. A thin silt-rich, fine grained diamict deposit
-2. *A periglacially altered surface*
+2. ***A periglacially altered surface (Definition?)***
 3. Diameter up to 4 m
 4. Stripes
 5. On the bedrock plateau
@@ -220,8 +220,7 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 1. In the western end of Helgevatnet
 2. A terrace-shaped deposit
 3. Consisting of sand and gravel
-4. A kame (=knob) terrace deposited in an ice-dammed
-lake (In small areas, kames may form the terminal moraine.)
+4. A kame (=knob) terrace deposited in an ice-dammed lake (In small areas, kames may form the terminal moraine.)
 
 ### 4.3 Raised marine deposits
 
@@ -248,7 +247,7 @@ lake (In small areas, kames may form the terminal moraine.)
 2. Elevations from ~3 to ~72 m a.s.l.
 3. Predominantly along the modern coastline of Wijdefjorden and up to 3.3 km inland
 4. From coarse sand up to small boulders
-5. *Distinct ridges (~0.2 m high) occur* How?
+5. ***Distinct ridges (~0.2 m high) occur (How the ridges were formed?)*** 【Raised marine deposits】
 6. Raised beach deposits
 
 ##### - Raised beach deposits compared to modern
@@ -337,7 +336,7 @@ talus at the toe of the colluvial fans.
 
 ##### - The deposits
 1. Sand and gravel
-2. with actively forming ridges (~0.3 m high)
+2. ***With actively forming ridges (~0.3 m high) (How the ridges were formed?)*** 【Landforms of Holocene origin】
 3. Up to 70 m wide
 4. Up to 3 m a.s.l.
 5. Separated by outcropping bedrock of positive relief
@@ -378,12 +377,12 @@ talus at the toe of the colluvial fans.
 #### - Femmilsjøen was connected to the fjord until between 11.7 and 11.3 cal. ka BP
 + Raised glaciomarine deposits = Marine and lake sediment cores from Wijdefjorden and Femmilsjøen
 
-#### *- The raised beach ridges are the results of gradual emergence after the deglaciation* Why it emerged?
+#### ***- The raised beach ridges are the results of gradual emergence after the deglaciation (Why it emerged?)*** 
 
-#### - The marine deposits and *beach ridges* are formed prior to the form of the isolation threshold
-
+#### - The marine deposits and ***beach ridges*** are formed prior to the form of the isolation threshold
+       ***Isn't beach ridges and the isolation threshold formed at the same time?***
 #### - Periglacial processes and slope processes initiated shortly after deglaciation of the area
-> *rockwall retreat?*
+> ***What is rockwall retreat?***
 
 #### - The ice marginal positions mapped in the lowrelief coastal area represent dynamic re-advances of tributary (支流) glacier after retreat of the main glacier in Wijdefjorden
 
@@ -444,7 +443,7 @@ to assess the timing of re-advances
 #### - Midtsundstadbreen could have switched from warm to cold after the LGM
 + as the ice sheet in the northern sector had already started thinning c. 25 ka ago, the switch may have occurred early (Maximum coverage was between 26,500 years and 19–20,000 years ago)
 
-#### - Cold-based glaciers modify landscapes, however, *at a rate of an order of magnitude lower*
+#### - Cold-based glaciers modify landscapes, however, ***at a rate of an order of magnitude lower (What it means?)*** 
 > Geomorphological evidence of cold-based glacier activity
 > + Erosional features
 >   1. Broad scrapes and grooves (刮痕)
