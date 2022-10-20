@@ -83,8 +83,8 @@ North Svalbard >> Spitsbergen >> Femmilsjoen Area
 ### - Topography
 1. Undulating (起伏的)
 2. Numerous lakes
-3. ***Marine limit (冰磧稜線)***
-4. ***The marine isolation threshold (冰磧分隔臨界點=冰斗湖前丘)***
+3. ***Marine limit***
+4. ***The marine isolation threshold***
 > cal. ka BP = calibrated kiloannus (1000yr) before present (1950)
 > ***What is the c.in c. 11.7 ± 0.3 and c. 11.3 ± 0.2 cal. ka BP?***
 5. Coastal lowland
